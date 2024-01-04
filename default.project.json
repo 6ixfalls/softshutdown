@@ -1,0 +1,13 @@
+{
+  "name": "softshutdown",
+  "globIgnorePaths": ["**/.package-lock.json"],
+  "tree": {
+    "$path": "src",
+    "src": {
+      "$className": "Folder",
+      "node_modules": {
+        "$path": "node_modules"
+      }
+    }
+  }
+}
