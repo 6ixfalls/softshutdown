@@ -1,6 +1,6 @@
 {
     "name": "softshutdown",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "",
     "keywords": [
         "Roblox",
@@ -9,9 +9,9 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "@quenty/loader": "^7.1.0",
-        "@quenty/servicebag": "^7.1.0",
-        "@quenty/softshutdown": "^4.3.0"
+        "@quenty/loader": "^10.9.0",
+        "@quenty/servicebag": "^11.13.1",
+        "@quenty/softshutdown": "^9.26.1"
     },
     "publishConfig": {
         "access": "restricted"
